@@ -11,5 +11,5 @@ This is the implementation of 1st Part in 3-Part Series of Algorithms Illuminate
 7. Strassen Algorithm for Matrix Multiplication (Divide and Conquer Approach)
 8. Closest Pair of Points
 9. Quick Sort (In-place Sort)
-10. RSelect Algorithm to find  𝑖𝑡ℎ  smallest element
-11. DSelect Algorithm to find  𝑖𝑡ℎ  smallest element
+10. RSelect Algorithm to find i^{th} Smallest Element in an Array
+11. DSelect Algorithm to find i^{th} Smallest Element in an Array
