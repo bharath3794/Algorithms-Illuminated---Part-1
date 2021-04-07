@@ -14,3 +14,10 @@ This Book Series is also available as Algorithms Specialization by Tim Roughgard
 9. Quick Sort (In-place Sort)
 10. RSelect Algorithm to find ith Smallest Element in an Array
 11. DSelect Algorithm to find ith Smallest Element in an Array
+
+## Requirements:
+Tested on
+```
+python v3.7
+go v1.14
+```
